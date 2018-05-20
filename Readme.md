@@ -1,4 +1,4 @@
-# Hangman
+# Defensive Hangman
 
 Jogo: Forca.
 O jogador deve acertar a palavra proposta.
